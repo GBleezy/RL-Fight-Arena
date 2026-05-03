@@ -1,0 +1,6 @@
+{
+  "name": "RL Fighter Arena",
+  "description": "A reinforcement learning simulation game where you design, train, and battle neural network fighters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
